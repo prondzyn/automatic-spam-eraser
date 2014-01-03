@@ -3,7 +3,7 @@
    * Plugin Name: Automatic SPAM Eraser
    * Plugin URI: http://wordpress.org/plugins/automatic-spam-eraser/
    * Description: The plugin is adding a new WP-Cron event which automatically removes all <a href="edit-comments.php?comment_status=spam">spam</a> comments older than 7 days.
-   * Version: 0.1
+   * Version: 1.0
    * Author: Piotr Prądzyński
    * Author URI: http://prondzyn.com
    * License: GPL2
