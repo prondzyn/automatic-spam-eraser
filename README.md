@@ -1,0 +1,1 @@
+See: http://wordpress.org/plugins/automatic-spam-eraser/
